@@ -1,7 +1,6 @@
-package com.tam.gltest;
+package bappivi.baji.fivek;
 
 import java.util.ArrayList;
-
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+import bappivi.baji.fivek.R;
 
 public class GridViewAdapter extends ArrayAdapter {
 	private Context context;
